@@ -8,5 +8,5 @@
 3) Create An App On Heroku And Connect Heroku With Your Github Repository, 
 4) Manual Deploy To Your Repository. 
 ```
-![logo](https://telegra.ph/file/6cb884fe1cb943ec12df1.mp4)
+![logo](https://telegra.ph/file/9d337b3414bbf8e39ba79.jpg)
 # Reach Me On Telegram [🎸𝐒𝐨𝐧𝐠 𝐏𝐥𝐚𝐲 𝐁𝐨𝐭🎶](https:t.me/SongPlayRoBot)
