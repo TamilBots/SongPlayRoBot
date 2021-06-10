@@ -12,5 +12,5 @@
 # Reach Me On Telegram [🎸𝐒𝐨𝐧𝐠 𝐏𝐥𝐚𝐲 𝐁𝐨𝐭🎶](https:t.me/SongPlayRoBot)
 
 # Report Any Error or Help Contact :
-(Channel 💬](https://t.me/TamilBots), 
+[Channel 💬](https://t.me/TamilBots), 
 [Support ❤️](https://t.me/TamilSupport) 
