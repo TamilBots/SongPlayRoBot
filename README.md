@@ -17,11 +17,16 @@ Easy To Deploy 🤗
 3) Create An App On Heroku And Connect Heroku With Your Github Repository, 
 4) Manual Deploy To Your Repository. 
 ```
-![logo](https://telegra.ph/file/9d337b3414bbf8e39ba79.jpg)
-# Reach Me On Telegram [🎸𝐒𝐨𝐧𝐠 𝐏𝐥𝐚𝐲 𝐁𝐨𝐭🎶](https:t.me/SongProBot)
+![logo](https://telegra.ph/file/abdb5a244fedea3e59409.jpg)
+# Reach Me On Telegram [Tharamaana Song
+S🎶](https:t.me/tharamaanasongs)
 
 # Report Any Error or Help Contact :
-[Channel 💬](https://t.me/TamilBots), 
-[Support ❤️](https://t.me/TamilSupport) 
+[Channel ❤️
 
-Report your problem along with your name to This [PERSON](https://t.me/iMvEtRi) 😪
+](https://t.me/Tendkotta), 
+[Channel-
+
+2 ❤️](https://t.me/Tharamaanamovies) 
+
+Report your problem along with your name to This [PERSON](https://t.me/tharamaanaadmin) 😪
