@@ -1,6 +1,6 @@
-# SongPlayRoBot
+## Youtube Songs Downloader
 
-Demo : [Songdlrobot](https:t.me/SongProBot)
+Demo : [youtubesongsdlbot](https:t.me/youtubesongsdlbot)
 
 ```
 Hi, I'm Pari - A simple youtube song downloader bot
