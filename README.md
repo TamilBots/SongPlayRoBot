@@ -9,7 +9,7 @@ Hi
 ## [Tharamaana Songs🎶](https:t.me/tharamaanasongs)
 
 ## [TENDKOTTA ❤️](https://t.me/Tendkotta)
-## [Tharamaana Movies ❤️](https://t.me/Tharamaanamovies) 
+### [Tharamaana Movies ❤️](https://t.me/Tharamaanamovies) 
 
 Report your problem along with your name to This 👇
 ## [Tharamaana Admin](https://t.me/tharamaanaadmin) 😪
