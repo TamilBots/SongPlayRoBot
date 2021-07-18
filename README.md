@@ -6,7 +6,7 @@
 
 Open Source Bot 👨🏻‍💻
 
-Demo : [🎸𝐒𝐨𝐧𝐠 𝐏𝐥𝐚𝐲 𝐁𝐨𝐭🎶](https:t.me/SongProBot)
+Demo : [Songdlrobot](https:t.me/SongProBot)
 
 Easy To Deploy 🤗
 
@@ -20,8 +20,7 @@ Easy To Deploy 🤗
 ![logo](https://telegra.ph/file/abdb5a244fedea3e59409.jpg)
 # Reach Me On Telegram [Tharamaana Songs🎶](https:t.me/tharamaanasongs)
 
-# Report Any Error or Help Contact :
-[Channel ❤️](https://t.me/Tendkotta), 
-[Channel-2 ❤️](https://t.me/Tharamaanamovies) 
+# [Channel ❤️](https://t.me/Tendkotta)
+# [Channel-2 ❤️](https://t.me/Tharamaanamovies) 
 
 Report your problem along with your name to This [PERSON](https://t.me/tharamaanaadmin) 😪
