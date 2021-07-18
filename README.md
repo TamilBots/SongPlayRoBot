@@ -18,15 +18,10 @@ Easy To Deploy 🤗
 4) Manual Deploy To Your Repository. 
 ```
 ![logo](https://telegra.ph/file/abdb5a244fedea3e59409.jpg)
-# Reach Me On Telegram [Tharamaana Song
-S🎶](https:t.me/tharamaanasongs)
+# Reach Me On Telegram [Tharamaana Songs🎶](https:t.me/tharamaanasongs)
 
 # Report Any Error or Help Contact :
-[Channel ❤️
-
-](https://t.me/Tendkotta), 
-[Channel-
-
-2 ❤️](https://t.me/Tharamaanamovies) 
+[Channel ❤️](https://t.me/Tendkotta), 
+[Channel-2 ❤️](https://t.me/Tharamaanamovies) 
 
 Report your problem along with your name to This [PERSON](https://t.me/tharamaanaadmin) 😪
