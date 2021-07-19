@@ -38,7 +38,7 @@ def start(client, message):
             [
                 [
                     InlineKeyboardButton('𝐒𝐔𝐏𝐏𝐎𝐑𝐓 👬', url='https://t.me/Tharamaanamovies'),
-                    InlineKeyboardButton('𝐀𝐃𝐃 𝐌𝐄 🤗', url='https://t.me/youtubesongsdlbot?startgroup=true')
+                    InlineKeyboardButton('𝐀𝐃𝐃 𝐌𝐄 🤗', url='https://t.me/anysongdlrobot?startgroup=true')
                 ]
             ]
         )
