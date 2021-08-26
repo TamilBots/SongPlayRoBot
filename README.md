@@ -24,4 +24,4 @@ Easy To Deploy 🤗
 [Channel 💬](https://t.me/TamilBots), 
 [Support ❤️](https://t.me/TamilSupport) 
 
-Report your problem along with your name to This [PERSON](https://t.me/iMvEtRi) 😪
+Report your problem along with your name to This Person 📲 [iMvEtRi🧑‍💻](https://t.me/iMvEtRi) 😪
